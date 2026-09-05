@@ -1,5 +1,5 @@
 智能电表能效分析智能体
-=======================
+
 
 一、这是什么？
 
@@ -113,7 +113,8 @@ A: 可以。项目代码开源，你可以按照 README_DEV.md（如果有）中
 
   技术路线：Python (pandas/numpy/matplotlib) + FastAPI + Railway + Coze
 
-  作者：顾 c (theGu)
-  专业：自动化（大二）
+  代码由ai辅助生成，请注意识别。
 
-  许可证：MIT License
+  
+
+  
